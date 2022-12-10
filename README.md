@@ -8,7 +8,7 @@
 
 #### How to Reach Me
 [<img src='https://skillicons.dev/icons?i=discord' style='width: 14px'> Discord](https://discord.com/channels/@me/962684663137181716) &nbsp;&mdash;&nbsp; 
-[<img src='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/apple/325/open-mailbox-with-raised-flag_1f4ec.png' style='width: 14px'> Send me email](mailto:hi@londra.gq)
+[<img src='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/apple/325/open-mailbox-with-raised-flag_1f4ec.png' style='width: 14px'> Send me an email](mailto:hi@londra.gq)
 
 #### Technologies I use
 > Front-end
