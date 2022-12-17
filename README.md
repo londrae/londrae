@@ -12,8 +12,8 @@
 [![Spotify](https://dev.discordprofiles.me/badge/spotify/962684663137181716)](https://dev.discordprofiles.me/openspotify/962684663137181716)
 
 ### How to Reach Me
-[<img src='https://skillicons.dev/icons?i=discord' style='width: 14px'> Discord](https://discord.com/channels/@me/962684663137181716) &nbsp;&mdash;&nbsp; 
-[<img src='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/apple/325/open-mailbox-with-raised-flag_1f4ec.png' style='width: 14px'> Send me an email](mailto:hello@londra.gq)
+[<img src='https://skillicons.dev/icons?i=discord' style='width: 14px; height: 14px'> Discord](https://discord.com/channels/@me/962684663137181716) &nbsp;&mdash;&nbsp; 
+[<img src='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/apple/325/open-mailbox-with-raised-flag_1f4ec.png' style='width: 14px; height: 14px'> Send me an email](mailto:hello@londra.gq)
 
 ### Technologies I use
 > Front-end
