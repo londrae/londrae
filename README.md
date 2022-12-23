@@ -3,8 +3,7 @@
 [![](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://disbadges.londra.gq/api/badge/status/962684663137181716?simple=true)](https://discord.com/channels/@me/962684663137181716)
 [![](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://disbadges.londra.gq/api/badge/playing/962684663137181716)](https://discord.com/channels/@me/962684663137181716)
 [![](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://disbadges.londra.gq/api/badge/vscode/962684663137181716)](https://discord.com/channels/@me/962684663137181716)
-[![](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://disbadges.londra.gq/api/badge/spotify/962684663137181716)](https://discord.com/channels/@me/962684663137181716)
-
+[![](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://disbadges.londra.gq/api/badge/spotify/962684663137181716)](https://discord.com/channels/@me/962684663137181716)<br>
 [^ these badges are one of my projects](https://github.com/londrae/dis-badges)
 
 ### How to Reach Me
