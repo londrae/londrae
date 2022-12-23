@@ -1,6 +1,5 @@
 # Howdy 👋 I'm londra!
 
-![](https://komarev.com/ghpvc/?username=londrae&label=profile+views)
 [![](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://disbadges.londra.gq/api/badge/status/962684663137181716?simple=true)](https://discord.com/channels/@me/962684663137181716)
 [![](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://disbadges.londra.gq/api/badge/playing/962684663137181716)](https://discord.com/channels/@me/962684663137181716)
 [![](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://disbadges.londra.gq/api/badge/vscode/962684663137181716)](https://discord.com/channels/@me/962684663137181716)
@@ -33,6 +32,7 @@
 [![](https://skillicons.dev/icons?perline=8&i=cloudflare,netlify,vercel,github,gitlab,heroku,docker,aws,azure,webpack)](https://github.com/londrae)
 
 ### GitHub Stats
+[![](https://komarev.com/ghpvc/?username=londrae&label=profile+views)](https://github.com/londrae)<br>
 [![](https://github-readme-stats.vercel.app/api?username=londrae&count_private=true&theme=dracula&hide_border=true)](https://github.com/londrae)<br>
 [![](https://github-readme-streak-stats.herokuapp.com?user=londrae&theme=dracula&hide_border=true&stroke=DD000000&currStreakNum=F8F8F2&currStreakLabel=FF6E96&sideNums=F8F8F2)](https://github.com/londrae)<br>
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=londrae&layout=compact&theme=dracula&hide_border=true&card_width=445px)](https://github.com/londrae)
